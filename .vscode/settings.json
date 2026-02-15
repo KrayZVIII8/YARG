@@ -11,5 +11,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "YARG.slnx"
+    "dotnet.defaultSolution": "YARG.slnx",
+    "dotnet.debug.suppressInvalidDebugTypeWarning": true
 }
